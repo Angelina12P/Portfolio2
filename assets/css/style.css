@@ -105,8 +105,8 @@ h2, p {
     background: var(--Hide);
     width: 200px;
     position:relative;
-    left:-210px;
-    top:130px
+    left:-180px;
+    top:140px
 }
 .Title{
     background-color: var(--Hide);
